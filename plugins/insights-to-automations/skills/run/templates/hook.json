@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "{event_type}": [
+      {
+        "matcher": "{tool_pattern}",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "{shell_command}"
+          }
+        ]
+      }
+    ]
+  }
+}

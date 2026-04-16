@@ -1,0 +1,11 @@
+{
+  "name": "insights-to-automations",
+  "version": "0.7.0",
+  "description": "Turn Claude Code Insights reports into skills, agents, hooks, and CLAUDE.md rules based on actual usage patterns",
+  "author": {
+    "name": "MaryamZi"
+  },
+  "repository": "https://github.com/MaryamZi/claude-plugins",
+  "license": "MIT",
+  "keywords": ["insights", "automations", "skills", "hooks", "agents"]
+}
